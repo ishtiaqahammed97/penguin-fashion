@@ -1,0 +1,54 @@
+.logo img{
+    width: 30%;
+  
+    
+}
+h1{ font-size: 60px;
+    font-weight: 700;
+  
+
+}
+.name-highlight{
+    color: orange;
+}
+.buttons{
+    padding: 12px;
+    color: #A4BC46;
+    border-radius: 5px;
+    flex-direction: row;
+    text-decoration-color: white;
+    
+}
+.half-width img{
+    width: 100%;
+    margin-bottom: 2%;
+    margin-left: 5%;
+    padding-left: 50%;
+}
+.categories img{
+    width: 60%;
+    height: 60%;
+    background-color:whitesmoke;
+}
+.facilities-provide img{
+                width: 70px;
+                height: 70px;
+}
+.facilities-provide{
+    border: none;
+    flex: none;
+}
+
+.card-title{
+    font-weight: 700;
+}
+.card-text{
+    font-size: smaller;
+}
+.store-image img{
+    width: 450px;
+    height: 350px;
+}
+.penguin-collection{
+    border: 0;
+}
